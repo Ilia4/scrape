@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "chromedriver": "^129.0.0",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.11.3",
+    "puppeteer": "^23.4.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^4.25.0"
+  }
+  
+}
